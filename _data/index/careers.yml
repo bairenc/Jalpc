@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Senior & First-year Master @ University of Southern California
+    
+  desc:
+    detail: Proud Trojan, fight on!
+
+  date:
+    detail: 08/19 - Present
+
+  job:
+    detail: B.S. Computer Science; M.S. Computer Science; B.A. Cognitive Science
+  icon: fa-plus-square
+  present: true
+- name:
     detail: Siemens Digital Industries Software Intern
     i18n: company_a
   desc:

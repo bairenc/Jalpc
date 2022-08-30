@@ -16,15 +16,16 @@
   present: false
 
 - name:
-    detail: Company B
+    detail: USC SAND Lab
     i18n: company_b
   desc:
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 06/21 - Present
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Research Assistant / Developer
     i18n: company_b_job
   icon: fa-plus-square
+  present: true

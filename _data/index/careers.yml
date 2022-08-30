@@ -7,7 +7,7 @@
     detail: Implemented functions and visualization for quality dashboard interface via Apollo and React, including search bar, navigation entrances for automated testing studios and future ML applications; conducted unit testing for database via search bar queries
     i18n: company_a_desc
   date:
-    detail: 06/21-08/21
+    detail: 06/21 - 08/21
     i18n: company_a_date
   job:
     detail: Product Software Developer

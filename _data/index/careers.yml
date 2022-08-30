@@ -1,19 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Siemens Digital Industries Software 
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I Implemented functions and visualization for quality dashboard interface via Apollo and React, including search bar, navigation entrances for automated testing studios and future ML applications; conducted unit testing for database via search bar queries
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 06/21-08/21
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Product Software Developer
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Company B

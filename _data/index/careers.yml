@@ -10,9 +10,25 @@
     detail: 08/19 - Present
 
   job:
-    detail: B.S. Computer Science; M.S. Computer Science; B.A. Cognitive Science
+    detail: M.S. Computer Science; B.S. Computer Science; B.A. Cognitive Science
   icon: fa-plus-square
   present: true
+
+  - name:
+    detail: USC SAND Lab
+    i18n: company_b
+  desc:
+    detail: Model underline structures of dynamic world; Implement gostack library w/ Gabe Tucker 
+    i18n: company_b_desc
+  date:
+    detail: 06/21 - present
+    i18n: company_b_date
+  job:
+    detail: Research Assistant / Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+  
 - name:
     detail: Siemens Digital Industries Software Intern
     i18n: company_a
@@ -28,17 +44,4 @@
   icon: fa-plus-square
   present: false
 
-- name:
-    detail: USC SAND Lab
-    i18n: company_b
-  desc:
-    detail: Model underline structures of dynamic world; Implement gostack library w/ Gabe Tucker 
-    i18n: company_b_desc
-  date:
-    detail: 06/21 - present
-    i18n: company_b_date
-  job:
-    detail: Research Assistant / Developer
-    i18n: company_b_job
-  icon: fa-plus-square
-  present: true
+

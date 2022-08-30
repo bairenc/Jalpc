@@ -22,7 +22,7 @@
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: 06/21 - Present
+    detail: 06/21 - present
     i18n: company_b_date
   job:
     detail: Research Assistant / Developer

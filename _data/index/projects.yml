@@ -10,8 +10,8 @@
 
 - name: TorchML
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  #gh_user: python
+  #repo: cpython
   img: /static/assets/img/landing/python.png
   desc: Developing a new machine learning library for few-shot learning search on top of PyTorch
 

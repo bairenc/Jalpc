@@ -14,7 +14,7 @@
   icon: fa-plus-square
   present: true
 
-  - name:
+- name:
     detail: USC SAND Lab
     i18n: company_b
   desc:

@@ -6,7 +6,7 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: A higly flexible and function-oriented Go data structure built on top of map. 
+  desc: A higly flexible go data structure for multi-level maps. User-friendly builtin functions for retrival/indexing/searching
 
 - name: TorchML
   i18n: cpython

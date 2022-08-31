@@ -3,9 +3,9 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Gostack
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
+  gh_user: gabetucker2
+  repo: gostack
+  img: /static/assets/img/landing/golang.png
   desc: A higly flexible go data structure for multi-level maps. User-friendly builtin functions for retrival/indexing/searching
 
 - name: TorchML

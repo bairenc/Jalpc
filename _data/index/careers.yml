@@ -1,18 +1,33 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Student @ University of Southern California
+    detail: University of Southern California
     
   desc:
-    detail: Proud Trojan, fight on!
+    detail: BS/MS Computer Science, BA Cognitive Science
 
   date:
-    detail: 08/19 - Present
+    detail: Aug. 2019 - Dec. 2024
 
   job:
-    detail: M.S. Computer Science; B.S. Computer Science; B.A. Cognitive Science
+    detail: Student
   icon: fa-plus-square
   present: true
+
+- name:
+    detail: 222.place
+    i18n: company_c
+  desc:
+    detail: Venue Dashboard
+    i18n: company_c_desc
+  date:
+    detail: 05/2023 - 07/2023
+    i18n: company_c_date
+  job:
+    detail: Backend Software Engineer Intern
+    i18n: company_c_job
+  icon: fa-plus-square
+  present: false
 
 - name:
     detail: USC SAND Lab
@@ -21,25 +36,25 @@
     detail: Model underline structures of dynamic world; Implement gostack library w/ Gabe Tucker 
     i18n: company_b_desc
   date:
-    detail: 06/21 - present
+    detail: 06/2021 - 05/2023
     i18n: company_b_date
   job:
     detail: Research Assistant / Developer
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
-    detail: Siemens Digital Industries Software Intern
+    detail: Siemens
     i18n: company_a
   desc:
-    detail: Implemented functions and visualization for quality dashboard interface via Apollo and React, including search bar, navigation entrances for automated testing studios and future ML applications; conducted unit testing for database via search bar queries
+    detail: Digital Industries Software - Quality Dashboard
     i18n: company_a_desc
   date:
-    detail: 06/21 - 08/21
+    detail: 06/2021 - 08/2021
     i18n: company_a_date
   job:
-    detail: Product Software Developer
+    detail: Frontend Software Engineer Intern
     i18n: company_a_job
   icon: fa-plus-square
   present: false

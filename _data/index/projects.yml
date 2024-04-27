@@ -14,15 +14,3 @@
   repo: torchml
   img: /static/assets/img/landing/python.png
   desc: Developing a new machine learning library for few-shot learning search on top of PyTorch
-
-- name: brainattacker
-  gh_user: CSCI201-Final-Project-G24
-  repo: FinalProject
-  img: /static/assets/img/landing/braingame.png
-  desc: Mini game that allows users to battle each other for Brain Twisters
-
-- name: EasyTeamUp
-  gh_user: sherrygao821
-  repo: EasyTeamUp
-  img: /static/assets/img/landing/android.jpeg
-  desc: Mobile app that allows users to post/view local social outings and sign up

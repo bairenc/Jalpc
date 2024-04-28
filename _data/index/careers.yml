@@ -21,7 +21,7 @@
     detail: Venue Dashboard
     i18n: company_c_desc
   date:
-    detail: 05/2023 - 07/2023
+    detail: May 2023 - Jul. 2023
     i18n: company_c_date
   job:
     detail: Backend Software Engineer Intern
@@ -36,7 +36,7 @@
     detail: Model underline structures of dynamic world; Implement gostack library w/ Gabe Tucker 
     i18n: company_b_desc
   date:
-    detail: 06/2021 - 05/2023
+    detail: Jun. 2021 - May 2023
     i18n: company_b_date
   job:
     detail: Research Assistant / Developer
@@ -51,7 +51,7 @@
     detail: Digital Industries Software - Quality Dashboard
     i18n: company_a_desc
   date:
-    detail: 06/2021 - 08/2021
+    detail: Jun. 2021 - Aug. 2021
     i18n: company_a_date
   job:
     detail: Frontend Software Engineer Intern
